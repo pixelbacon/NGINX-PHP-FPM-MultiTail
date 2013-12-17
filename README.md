@@ -10,6 +10,6 @@ Makes use of [MultiTail].
 
 ### Usage ###
 <pre>
-chmod 777 www-logs.sh
+sudo chmod 777 www-logs.sh
 sudo ./www-logs.sh
 </pre>
