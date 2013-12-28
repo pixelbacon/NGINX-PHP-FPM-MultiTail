@@ -8,7 +8,7 @@
 Just a simple script used to help debug an [NGINX]/[PHP-FPM] setup on Unix machines. Generally goes with default locations for log files and especially helpful with [Vagrant] setups.
 
 ### Dependancies ###
-* [MultiTail]
+* [MultiTail] - Will install automatically when running the script.
 * [dpkg-query] - Installed by default in Debian & Ubuntu.
 
 ### Usage ###
